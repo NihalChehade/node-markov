@@ -7,5 +7,8 @@
   },
   "author": "Nihal",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
 }
